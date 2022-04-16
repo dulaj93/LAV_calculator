@@ -1,5 +1,5 @@
 # LAV_calculator
-This is a calculator that generates a standard length, area, and volume relative to the inputs. It can also be used as a unit converter.
+This is a calculator that generates standard length, area, and volume relative to the inputs. It can also be used as a unit converter.
 
 How to install
 
